@@ -1,0 +1,73 @@
+{
+	"ID": "20211212210913-10hg6ss",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20211212210913-10hg6ss",
+		"title": "2021-12-04",
+		"updated": "20211212211636"
+	},
+	"Children": [
+		{
+			"ID": "20211212210913-mms7lt1",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20211212210913-mms7lt1",
+				"updated": "20211212210936"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "成功的事情"
+				}
+			]
+		},
+		{
+			"ID": "20211212210936-jjc026q",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211212210936-jjc026q",
+				"updated": "20211212211158"
+			},
+			"Children": [
+				{
+					"ID": "20211212210938-1p9z1bj",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211212210938-1p9z1bj",
+						"updated": "20211212211158"
+					},
+					"Children": [
+						{
+							"ID": "20211212210938-xpdvl9u",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211212210938-xpdvl9u",
+								"updated": "20211212211158"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "嘿嘿嘿 今天算是第一次作为主持，给 srtp 宣讲，整个表现很不错，心情也不紧张，把想要说的东西都说了出来，中间还适度救场，开心。😜"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211212211636-7q40ysy",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211212211636-7q40ysy",
+				"updated": "20211212211636"
+			}
+		}
+	]
+}
