@@ -1,0 +1,231 @@
+{
+	"ID": "20210910002001-gqzjjqd",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210910002001-gqzjjqd",
+		"title": "2021-09-08",
+		"updated": "20210910004223"
+	},
+	"Children": [
+		{
+			"ID": "20210910002001-q3byv2b",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210910002001-q3byv2b",
+				"updated": "20210910002241"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "三件好事"
+				}
+			]
+		},
+		{
+			"ID": "20210910002202-y161988",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20210910002202-y161988",
+				"updated": "20210910004223"
+			},
+			"Children": [
+				{
+					"ID": "20210910002232-9sxdelf",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210910002232-9sxdelf",
+						"updated": "20210910002552"
+					},
+					"Children": [
+						{
+							"ID": "20210910002232-40gpmkx",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210910002232-40gpmkx",
+								"updated": "20210910002920"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "加入了一个主要是女生的学习小组。感觉自己做出了勇敢的决定，可以认识班里不熟悉的女生，有机会结交。\n同时也许任务完成会更负责一些，总体任务完成会流畅一些。\n也许我有能拿的出手的项目，到时候显露一番，也许能传出一些名声。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210910002921-bzkxy3b",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210910002921-bzkxy3b",
+						"updated": "20210910003143"
+					},
+					"Children": [
+						{
+							"ID": "20210910002921-23pxkpy",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210910002921-23pxkpy",
+								"updated": "20210910003117"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "初步搭建成功了博客，解决了以下的问题，是之前困扰许久的"
+								}
+							]
+						},
+						{
+							"ID": "20210910003004-oi2o35n",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210910003004-oi2o35n",
+								"updated": "20210910003143"
+							},
+							"Children": [
+								{
+									"ID": "20210910003004-928mgie",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210910003004-928mgie",
+										"memo": "主要是仓库里引用其他git项目，套用子模块，无法克隆仓库",
+										"updated": "20210910003143"
+									},
+									"Children": [
+										{
+											"ID": "20210910003004-1ch0la8",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210910003004-1ch0la8",
+												"updated": "20210910003143"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "解决了 cloudfare pages 总是部署失败的问题"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210910003913-g6aa7p2",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210910003913-g6aa7p2"
+									},
+									"Children": [
+										{
+											"ID": "20210910003913-m3x8dwz",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210910003913-m3x8dwz",
+												"updated": "20210910004008"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "解决了使用 git 无法上传的问题，使用 git 稍微有一些经验了"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210910004009-79ojrry",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210910004009-79ojrry"
+									},
+									"Children": [
+										{
+											"ID": "20210910004009-omvn63k",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210910004009-omvn63k",
+												"updated": "20210910004056"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "配置的主题基本可以使用了"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210910004102-uimfaba",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "My4=",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210910004102-uimfaba",
+						"updated": "20210910004223"
+					},
+					"Children": [
+						{
+							"ID": "20210910004102-1jop9oe",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210910004102-1jop9oe",
+								"updated": "20210910004223"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "上床比较早，开始回顾一天，完成积极心理学的训练，是一个好的开始。\n试图努力走出泥潭。"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210910003222-q70kera",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210910003222-q70kera",
+				"updated": "20210910003222"
+			}
+		}
+	]
+}

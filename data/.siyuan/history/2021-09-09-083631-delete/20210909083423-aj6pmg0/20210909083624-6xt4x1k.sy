@@ -1,0 +1,19 @@
+{
+	"ID": "20210909083624-6xt4x1k",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210909083624-6xt4x1k",
+		"title": "daily note",
+		"updated": "20210909083624"
+	},
+	"Children": [
+		{
+			"ID": "20210909083624-2va0tdh",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210909083624-2va0tdh",
+				"updated": "20210909083624"
+			}
+		}
+	]
+}

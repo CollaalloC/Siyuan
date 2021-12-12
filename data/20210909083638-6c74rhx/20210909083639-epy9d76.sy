@@ -1,0 +1,19 @@
+{
+	"ID": "20210909083639-epy9d76",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210909083639-epy9d76",
+		"title": "daily note",
+		"updated": "20210909083639"
+	},
+	"Children": [
+		{
+			"ID": "20210909110134-g5lfmgq",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210909110134-g5lfmgq",
+				"updated": "20210909110134"
+			}
+		}
+	]
+}

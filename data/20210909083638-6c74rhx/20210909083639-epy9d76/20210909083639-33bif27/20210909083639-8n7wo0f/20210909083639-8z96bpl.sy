@@ -1,0 +1,135 @@
+{
+	"ID": "20210909083639-8z96bpl",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210909083639-8z96bpl",
+		"title": "2021-09-09",
+		"updated": "20210925211316"
+	},
+	"Children": [
+		{
+			"ID": "20210909140555-51pfeyx",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210909140555-51pfeyx",
+				"updated": "20210910004337"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "三件好事"
+				}
+			]
+		},
+		{
+			"ID": "20210910004344-l1e05rm",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20210910004344-l1e05rm",
+				"updated": "20210910005138"
+			},
+			"Children": [
+				{
+					"ID": "20210910004354-jm5hvvs",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210910004354-jm5hvvs"
+					},
+					"Children": [
+						{
+							"ID": "20210910004354-j613vkq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210910004354-j613vkq",
+								"updated": "20210910004619"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "搭建甲骨文云 vps，又重新拥有了自己的服务器。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210910004620-f9ge44z",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210910004620-f9ge44z"
+					},
+					"Children": [
+						{
+							"ID": "20210910004620-p5hxnyc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210910004620-p5hxnyc",
+								"updated": "20210910005015"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "玩了哈利波特手游，觉得还是挺有趣的"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210910005017-9hg7mdc",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "My4=",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210910005017-9hg7mdc",
+						"updated": "20210910005138"
+					},
+					"Children": [
+						{
+							"ID": "20210910005017-i54rc25",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210910005017-i54rc25",
+								"updated": "20210910005138"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "认真听讲，学习模式识别的课程。想好要用 anki 记录知识点，有了完善的学习规划，希望可以学好这门课。"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210925211316-auytwef",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210925211316-auytwef",
+				"updated": "20210925211316"
+			}
+		}
+	]
+}
