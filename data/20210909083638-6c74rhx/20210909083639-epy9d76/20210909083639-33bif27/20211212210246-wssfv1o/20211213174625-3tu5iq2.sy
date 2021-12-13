@@ -1,0 +1,92 @@
+{
+	"ID": "20211213174625-3tu5iq2",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20211213174625-3tu5iq2",
+		"title": "2021-12-13",
+		"updated": "20211213175400"
+	},
+	"Children": [
+		{
+			"ID": "20211213174625-1jebiqg",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20211213174625-1jebiqg",
+				"updated": "20211213174800"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "成功的事情"
+				}
+			]
+		},
+		{
+			"ID": "20211213174801-ooervto",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211213174801-ooervto",
+				"updated": "20211213175400"
+			},
+			"Children": [
+				{
+					"ID": "20211213174806-lkeqwuz",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211213174806-lkeqwuz"
+					},
+					"Children": [
+						{
+							"ID": "20211213174806-p50e6ia",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211213174806-p50e6ia",
+								"updated": "20211213175211"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "彻底配置好了 zsh ，最终还是选用了 oh-my-zsh，之前一直觉得用了会特别卡，所以信奉要自己配需要的插件，其实用了之后还好，只启动必备的插件，常用也就那一些，速度还能接受。解决了不少问题。包括 python 找不到的问题。主要是 ubuntu 下 python3 为识别名字，为了避免麻烦的解决方法，就直接安装了 python-is-python3 这个包，目前运行良好，特此记录一下。折腾了许久，倒是确实对 linux 更熟悉了些，虽然对目前没有什么特别的帮助，不过之后在宿舍用可能会更舒服一些。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211213175211-mpz3vl8",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211213175211-mpz3vl8",
+						"updated": "20211213175400"
+					},
+					"Children": [
+						{
+							"ID": "20211213175211-18ieshq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211213175211-18ieshq",
+								"updated": "20211213175400"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "中午看完了教父第一部，了却了一段电影。还有两部在列表上的电影，美国往事和战争与和平，趁现在还算有空的时候，休息的时候可以看一下。最近事情也挺多，要把各项任务都陆续做了，比如今天应下来的光电系统设计展示，尽快查一些资料做准备。"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
