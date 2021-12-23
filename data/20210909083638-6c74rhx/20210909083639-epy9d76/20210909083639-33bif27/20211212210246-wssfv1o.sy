@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211212210246-wssfv1o",
 		"title": "12",
-		"updated": "20211213174645"
+		"updated": "20211223224505"
 	},
 	"Children": [
 		{
@@ -108,8 +108,32 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211212210309-we1zigt",
-				"updated": "20211212210309"
-			}
+				"updated": "20211223224505"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockRef",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeBlockRefID",
+							"Data": "20211223224452-0xspmup"
+						},
+						{
+							"Type": "NodeCloseParen"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				}
+			]
 		}
 	]
 }

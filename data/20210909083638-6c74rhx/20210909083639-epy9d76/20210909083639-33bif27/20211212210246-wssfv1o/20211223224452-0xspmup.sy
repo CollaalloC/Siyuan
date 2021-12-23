@@ -1,0 +1,156 @@
+{
+	"ID": "20211223224452-0xspmup",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20211223224452-0xspmup",
+		"title": "2021-12-23",
+		"updated": "20211223224624"
+	},
+	"Children": [
+		{
+			"ID": "20211223224452-zsz5ial",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20211223224452-zsz5ial",
+				"updated": "20211223224516"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "成功的事情"
+				}
+			]
+		},
+		{
+			"ID": "20211223224517-o558vjb",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211223224517-o558vjb",
+				"updated": "20211223224520"
+			},
+			"Children": [
+				{
+					"ID": "20211223224520-w4msi5c",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211223224520-w4msi5c"
+					},
+					"Children": [
+						{
+							"ID": "20211223224520-382yovd",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211223224520-382yovd",
+								"updated": "20211223224554"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "最近的心情很平静，找到了久违的能认真干活的感觉"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211223224601-eg838e3",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211223224601-eg838e3",
+				"updated": "20211223224601"
+			}
+		},
+		{
+			"ID": "20211223224602-sr7vvwr",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211223224602-sr7vvwr",
+				"updated": "20211223224609"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "突然不想写了"
+				}
+			]
+		},
+		{
+			"ID": "20211223224609-4yf44qs",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211223224609-4yf44qs",
+				"updated": "20211223224611"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "我好烦"
+				}
+			]
+		},
+		{
+			"ID": "20211223224611-gwa2gsu",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211223224611-gwa2gsu",
+				"updated": "20211223224616"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "之前还好"
+				}
+			]
+		},
+		{
+			"ID": "20211223224616-igmfvmo",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211223224616-igmfvmo",
+				"updated": "20211223224619"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "今天好烦"
+				}
+			]
+		},
+		{
+			"ID": "20211223224620-rjoa024",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211223224620-rjoa024",
+				"updated": "20211223224621"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "好烦"
+				}
+			]
+		},
+		{
+			"ID": "20211223224621-7086hx8",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211223224621-7086hx8",
+				"updated": "20211223224624"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "真的"
+				}
+			]
+		}
+	]
+}
