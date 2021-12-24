@@ -1,0 +1,363 @@
+{
+	"ID": "20211224231239-fqc7vlh",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20211224231239-fqc7vlh",
+		"title": "2021-12-24",
+		"updated": "20211224233224"
+	},
+	"Children": [
+		{
+			"ID": "20211224231239-tfhep6j",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20211224231239-tfhep6j",
+				"updated": "20211224232027"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "成功的事情"
+				}
+			]
+		},
+		{
+			"ID": "20211224232028-gkrvvpt",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211224232028-gkrvvpt",
+				"updated": "20211224233224"
+			},
+			"Children": [
+				{
+					"ID": "20211224232031-p7jzar7",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211224232031-p7jzar7"
+					},
+					"Children": [
+						{
+							"ID": "20211224232031-1jykwfw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211224232031-1jykwfw",
+								"updated": "20211224232150"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "今天是平安夜，也是考研前的最后一天。克服了麻烦的心理，出去买了苹果。是个超级冷的天。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211224232151-ov8n8o7",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211224232151-ov8n8o7"
+					},
+					"Children": [
+						{
+							"ID": "20211224232151-ozp1bcp",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211224232151-ozp1bcp",
+								"updated": "20211224232744"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "本来想买苹果也祝福 fx，经过舍友和自己的考虑下，成功打消了念头，对换位思考有了更深的了解"
+								}
+							]
+						},
+						{
+							"ID": "20211224232253-ozq4iv0",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1
+							},
+							"Properties": {
+								"id": "20211224232253-ozq4iv0",
+								"updated": "20211224232259"
+							},
+							"Children": [
+								{
+									"ID": "20211224232259-4m2tvyl",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "MS4=",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20211224232259-4m2tvyl"
+									},
+									"Children": [
+										{
+											"ID": "20211224232259-jodyyz1",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211224232259-jodyyz1",
+												"updated": "20211224232414"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "考研前时间是很宝贵的，也是很紧张的，这个时候的祝福并不合适，只会加重焦虑和烦躁的情绪。"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211224232418-xxqat07",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "Mi4=",
+										"Num": 2
+									},
+									"Properties": {
+										"id": "20211224232418-xxqat07"
+									},
+									"Children": [
+										{
+											"ID": "20211224232418-ipau384",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211224232418-ipau384",
+												"updated": "20211224232530"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "送一个苹果其实并没有想的那么重要，也不会有想的什么情绪上的帮助。"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211224232531-bdjxdsc",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "My4=",
+										"Num": 3
+									},
+									"Properties": {
+										"id": "20211224232531-bdjxdsc"
+									},
+									"Children": [
+										{
+											"ID": "20211224232531-g3g2vwv",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211224232531-g3g2vwv",
+												"updated": "20211224232659"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "只是从我这方面角度的考虑和臆想，并没有换位思考到对方的处境。这只是一件感动了自己的蠢事。"
+												}
+											]
+										},
+										{
+											"ID": "20211224232700-17hnphn",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211224232700-17hnphn",
+												"updated": "20211224232712"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "所以我最终取消了打算。"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211224232723-v84tlnv",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211224232723-v84tlnv",
+						"updated": "20211224233224"
+					},
+					"Children": [
+						{
+							"ID": "20211224232723-b3241ic",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211224232723-b3241ic",
+								"updated": "20211224232933"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "给小轩的苹果也出现了波折，但我觉得处理的很不错。这是送礼的感悟"
+								}
+							]
+						},
+						{
+							"ID": "20211224232819-yoxjbjk",
+							"Type": "NodeList",
+							"ListData": {
+								"Typ": 1
+							},
+							"Properties": {
+								"id": "20211224232819-yoxjbjk",
+								"updated": "20211224233224"
+							},
+							"Children": [
+								{
+									"ID": "20211224232825-m5o5bdg",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "MS4=",
+										"Num": 1
+									},
+									"Properties": {
+										"id": "20211224232825-m5o5bdg"
+									},
+									"Children": [
+										{
+											"ID": "20211224232825-2nw4g7z",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211224232825-2nw4g7z",
+												"updated": "20211224232915"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "祝福应该是快乐的，而不是让双方都感到不舒服或者有压力的事情，如果出现这样的情况，那么最好还是先停止。"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211224232916-7ukmdr2",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "Mi4=",
+										"Num": 2
+									},
+									"Properties": {
+										"id": "20211224232916-7ukmdr2"
+									},
+									"Children": [
+										{
+											"ID": "20211224232916-fp5gvue",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211224232916-fp5gvue",
+												"updated": "20211224233039"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "不要把自己的心意强加给别人，以及是多么不可缺少和多么令人感动。"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211224233048-l30s4mh",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "My4=",
+										"Num": 3
+									},
+									"Properties": {
+										"id": "20211224233048-l30s4mh"
+									},
+									"Children": [
+										{
+											"ID": "20211224233048-dpsp1pa",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211224233048-dpsp1pa",
+												"updated": "20211224233125"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "不能为了祝福他人而牺牲自己，这让祝福会变得充满压力和痛苦。"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20211224233131-e37zxe5",
+									"Type": "NodeListItem",
+									"ListData": {
+										"Typ": 1,
+										"Delimiter": 46,
+										"Marker": "NC4=",
+										"Num": 4
+									},
+									"Properties": {
+										"id": "20211224233131-e37zxe5",
+										"updated": "20211224233224"
+									},
+									"Children": [
+										{
+											"ID": "20211224233131-gg9d0ce",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211224233131-gg9d0ce",
+												"updated": "20211224233224"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "应该是一个双方都轻松自然舒适的氛围。"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

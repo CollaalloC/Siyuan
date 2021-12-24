@@ -1,0 +1,112 @@
+{
+	"ID": "20211224231239-fqc7vlh",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20211224231239-fqc7vlh",
+		"title": "2021-12-24",
+		"updated": "20211224232158"
+	},
+	"Children": [
+		{
+			"ID": "20211224231239-tfhep6j",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20211224231239-tfhep6j",
+				"updated": "20211224232027"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "成功的事情"
+				}
+			]
+		},
+		{
+			"ID": "20211224232028-gkrvvpt",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211224232028-gkrvvpt",
+				"updated": "20211224232158"
+			},
+			"Children": [
+				{
+					"ID": "20211224232031-p7jzar7",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211224232031-p7jzar7"
+					},
+					"Children": [
+						{
+							"ID": "20211224232031-1jykwfw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211224232031-1jykwfw",
+								"updated": "20211224232150"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "今天是平安夜，也是考研前的最后一天。克服了麻烦的心理，出去买了苹果。是个超级冷的天。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211224232151-ov8n8o7",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211224232151-ov8n8o7",
+						"updated": "20211224232158"
+					},
+					"Children": [
+						{
+							"ID": "20211224232151-ozp1bcp",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211224232151-ozp1bcp",
+								"updated": "20211224232158"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "本来想"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211224232134-9est1th",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211224232134-9est1th"
+					},
+					"Children": [
+						{
+							"ID": "20211224232134-pdqyeft",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211224232134-pdqyeft"
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}
