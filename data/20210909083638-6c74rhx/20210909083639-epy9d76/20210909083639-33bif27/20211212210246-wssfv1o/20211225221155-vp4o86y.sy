@@ -1,0 +1,79 @@
+{
+	"ID": "20211225221155-vp4o86y",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20211225221155-vp4o86y",
+		"title": "2021-12-25",
+		"updated": "20211225221538"
+	},
+	"Children": [
+		{
+			"ID": "20211225221155-rp2ndbj",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20211225221155-rp2ndbj",
+				"updated": "20211225221239"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "成功的事情"
+				}
+			]
+		},
+		{
+			"ID": "20211225221239-rhrj40w",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211225221239-rhrj40w",
+				"updated": "20211225221538"
+			},
+			"Children": [
+				{
+					"ID": "20211225221242-xf85um8",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211225221242-xf85um8",
+						"updated": "20211225221538"
+					},
+					"Children": [
+						{
+							"ID": "20211225221242-bkwl1dw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211225221242-bkwl1dw",
+								"updated": "20211225221355"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "在做决定的时候，思考一下有没有最优选择，选择最优选择。如果有长期的最大化选择，当然还是选择长期的。"
+								}
+							]
+						},
+						{
+							"ID": "20211225221356-9c2yg9d",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211225221356-9c2yg9d",
+								"updated": "20211225221538"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "不积硅步无以致千里。每一次都做最优选择，积累下去就是很大的优势。"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
