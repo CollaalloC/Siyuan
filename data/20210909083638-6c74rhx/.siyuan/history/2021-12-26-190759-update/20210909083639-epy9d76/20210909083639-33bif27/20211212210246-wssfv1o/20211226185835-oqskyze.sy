@@ -1,0 +1,19 @@
+{
+	"ID": "20211226185835-oqskyze",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20211226185835-oqskyze",
+		"title": "2021-12-26",
+		"updated": "20211226185835"
+	},
+	"Children": [
+		{
+			"ID": "20211226185835-2izzehp",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226185835-2izzehp",
+				"updated": "20211226185835"
+			}
+		}
+	]
+}

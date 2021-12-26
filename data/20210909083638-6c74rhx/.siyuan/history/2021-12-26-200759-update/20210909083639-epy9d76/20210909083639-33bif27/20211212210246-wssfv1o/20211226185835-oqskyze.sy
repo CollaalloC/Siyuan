@@ -1,0 +1,248 @@
+{
+	"ID": "20211226185835-oqskyze",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20211226185835-oqskyze",
+		"title": "2021-12-26",
+		"updated": "20211226200623"
+	},
+	"Children": [
+		{
+			"ID": "20211226194429-tgk2tbg",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226194429-tgk2tbg",
+				"updated": "20211226194945"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "我对性的渴求的原因，按理说接触过那么多相关的东西，本身的神秘性已经不会引起向往了，那为什么还如此向往"
+				}
+			]
+		},
+		{
+			"ID": "20211226194449-p8ko4zc",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20211226194449-p8ko4zc",
+				"updated": "20211226194457"
+			},
+			"Children": [
+				{
+					"ID": "20211226194457-h1st425",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20211226194457-h1st425"
+					},
+					"Children": [
+						{
+							"ID": "20211226194457-55lya1q",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226194457-55lya1q",
+								"updated": "20211226194649"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "对没有体验过的事情的好奇，尤其是这种总能接触到，似乎别人有过的，自己还没有过的经历的好奇和尝试。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211226194650-w1uiap1",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20211226194650-w1uiap1"
+					},
+					"Children": [
+						{
+							"ID": "20211226194650-cutsoen",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226194650-cutsoen",
+								"updated": "20211226194743"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "对性本身的探索，主要是两个人真的能如此坦然的亲密的连接在一起的尝试。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211226194805-x8jtvy0",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "My4=",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20211226194805-x8jtvy0"
+					},
+					"Children": [
+						{
+							"ID": "20211226194805-du7kjz6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226194805-du7kjz6",
+								"updated": "20211226194815"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "对女生本身的好奇。"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211226200536-5zlcm18",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226200536-5zlcm18",
+				"updated": "20211226200536"
+			}
+		},
+		{
+			"ID": "20211226200549-cgl9sj2",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 3
+			},
+			"Properties": {
+				"id": "20211226200549-cgl9sj2",
+				"updated": "20211226200621"
+			},
+			"Children": [
+				{
+					"ID": "20211226200549-fcz7ji2",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 3,
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211226200549-fcz7ji2"
+					},
+					"Children": [
+						{
+							"Type": "NodeTaskListItemMarker"
+						},
+						{
+							"ID": "20211226200549-81315pa",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226200549-81315pa",
+								"updated": "20211226200601"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "完成参数实验报告"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211226200601-n0eo4xb",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 3,
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211226200601-n0eo4xb"
+					},
+					"Children": [
+						{
+							"Type": "NodeTaskListItemMarker"
+						},
+						{
+							"ID": "20211226200601-4z5wgm9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226200601-4z5wgm9",
+								"updated": "20211226200615"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "宇哥高数"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211226200617-s9wj5pz",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 3,
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211226200617-s9wj5pz",
+						"updated": "20211226200621"
+					},
+					"Children": [
+						{
+							"Type": "NodeTaskListItemMarker"
+						},
+						{
+							"ID": "20211226200617-wfvv404",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226200617-wfvv404",
+								"updated": "20211226200621"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "复习参数"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211226200623-1md9js7",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226200623-1md9js7",
+				"updated": "20211226200623"
+			}
+		}
+	]
+}

@@ -1,0 +1,97 @@
+{
+	"ID": "20211226185835-oqskyze",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20211226185835-oqskyze",
+		"title": "2021-12-26",
+		"updated": "20211226194743"
+	},
+	"Children": [
+		{
+			"ID": "20211226194429-tgk2tbg",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211226194429-tgk2tbg",
+				"updated": "20211226194551"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "我对性的渴求的原因"
+				}
+			]
+		},
+		{
+			"ID": "20211226194449-p8ko4zc",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20211226194449-p8ko4zc",
+				"updated": "20211226194743"
+			},
+			"Children": [
+				{
+					"ID": "20211226194457-h1st425",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20211226194457-h1st425"
+					},
+					"Children": [
+						{
+							"ID": "20211226194457-55lya1q",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226194457-55lya1q",
+								"updated": "20211226194649"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "对没有体验过的事情的好奇，尤其是这种总能接触到，似乎别人有过的，自己还没有过的经历的好奇和尝试。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211226194650-w1uiap1",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20211226194650-w1uiap1",
+						"updated": "20211226194743"
+					},
+					"Children": [
+						{
+							"ID": "20211226194650-cutsoen",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211226194650-cutsoen",
+								"updated": "20211226194743"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "对性本身的探索，主要是两个人真的能如此坦然的亲密的连接在一起的尝试。"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
