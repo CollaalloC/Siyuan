@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211226185835-oqskyze",
 		"title": "2021-12-26",
-		"updated": "20211226200623"
+		"updated": "20211227191259"
 	},
 	"Children": [
 		{
@@ -137,7 +137,7 @@
 			},
 			"Properties": {
 				"id": "20211226200549-cgl9sj2",
-				"updated": "20211226200621"
+				"updated": "20211227191259"
 			},
 			"Children": [
 				{
@@ -149,23 +149,25 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20211226200549-fcz7ji2"
+						"id": "20211226200549-fcz7ji2",
+						"updated": "20211227191259"
 					},
 					"Children": [
 						{
-							"Type": "NodeTaskListItemMarker"
+							"Type": "NodeTaskListItemMarker",
+							"TaskListItemChecked": true
 						},
 						{
 							"ID": "20211226200549-81315pa",
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20211226200549-81315pa",
-								"updated": "20211226200601"
+								"updated": "20211226203002"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "完成参数实验报告"
+									"Data": "完成参数实验报告第一部分"
 								}
 							]
 						}

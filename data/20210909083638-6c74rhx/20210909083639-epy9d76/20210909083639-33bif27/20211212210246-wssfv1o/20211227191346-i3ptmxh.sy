@@ -1,0 +1,192 @@
+{
+	"ID": "20211227191346-i3ptmxh",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20211227191346-i3ptmxh",
+		"title": "2021-12-27",
+		"updated": "20211227191536"
+	},
+	"Children": [
+		{
+			"ID": "20211227191346-fy0uwgp",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20211227191346-fy0uwgp",
+				"updated": "20211227191402"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "成功的事情"
+				}
+			]
+		},
+		{
+			"ID": "20211227191402-b3vaj5z",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211227191402-b3vaj5z",
+				"updated": "20211227191536"
+			},
+			"Children": [
+				{
+					"ID": "20211227191404-mr5out1",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211227191404-mr5out1",
+						"updated": "20211227191536"
+					},
+					"Children": [
+						{
+							"ID": "20211227191404-k43oxjb",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211227191404-k43oxjb",
+								"updated": "20211227191655"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "思前想后，犹豫要不要联系前女友，这是之前一直想做的事情，想等她考完研一起吃个饭。临到跟前又下不定决心，今天做了这个一直想做的事情。决定好的事情，就要去做。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211227191753-9j0exom",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211227191753-9j0exom"
+					},
+					"Children": [
+						{
+							"ID": "20211227191753-jlbdvdo",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211227191753-jlbdvdo",
+								"updated": "20211227191833"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "看完了茶馆剧本，有空可以写一写。"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211227191836-ud9zer3",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211227191836-ud9zer3"
+					},
+					"Children": [
+						{
+							"ID": "20211227191836-wfnm5db",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211227191836-wfnm5db",
+								"updated": "20211227191905"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "上午来了实验室，下午吃完饭也坚持到了。"
+								}
+							]
+						},
+						{
+							"ID": "20211227191910-nzzqyu3",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20211227191910-nzzqyu3"
+							},
+							"Children": [
+								{
+									"ID": "20211227191909-xkmis7z",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20211227191909-xkmis7z"
+									},
+									"Children": [
+										{
+											"ID": "20211227191909-wfwoyd1",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20211227191909-wfwoyd1",
+												"updated": "20211227191948"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "下一步就是早上要早到，下午也要能早点出门，不能荒废一下午的时间，养成作息。"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211227191949-p4bgdmu",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211227191949-p4bgdmu"
+					},
+					"Children": [
+						{
+							"ID": "20211227191949-ullgd77",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211227191949-ullgd77"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211227191657-9p024nw",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211227191657-9p024nw",
+				"updated": "20211227191657"
+			}
+		},
+		{
+			"ID": "20211227191659-fbc5ive",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211227191659-fbc5ive",
+				"updated": "20211227191659"
+			}
+		}
+	]
+}

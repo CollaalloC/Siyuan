@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20211212210246-wssfv1o",
 		"title": "12",
-		"updated": "20211226185836"
+		"updated": "20211227191347"
 	},
 	"Children": [
 		{
@@ -269,6 +269,45 @@
 						{
 							"Type": "NodeBlockRefDynamicText",
 							"Data": "2021-12-26"
+						},
+						{
+							"Type": "NodeCloseParen"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211227191337-hjsi6da",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211227191337-hjsi6da",
+				"updated": "20211227191347"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockRef",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeBlockRefID",
+							"Data": "20211227191346-i3ptmxh"
+						},
+						{
+							"Type": "NodeBlockRefSpace"
+						},
+						{
+							"Type": "NodeBlockRefDynamicText",
+							"Data": "2021-12-27"
 						},
 						{
 							"Type": "NodeCloseParen"
