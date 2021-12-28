@@ -1,0 +1,46 @@
+{
+	"ID": "20211228214453-fnnxqwa",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20211228214453-fnnxqwa",
+		"title": "资本论",
+		"updated": "20211228214701"
+	},
+	"Children": [
+		{
+			"ID": "20211228214609-4ny9g5v",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211228214609-4ny9g5v",
+				"updated": "20211228214609"
+			}
+		},
+		{
+			"ID": "20211228214453-balzotn",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20211228214453-balzotn",
+				"updated": "20211228214701"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "bWluZG1hcA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "- 商品\n   - 物 （具有某种属性）"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		}
+	]
+}

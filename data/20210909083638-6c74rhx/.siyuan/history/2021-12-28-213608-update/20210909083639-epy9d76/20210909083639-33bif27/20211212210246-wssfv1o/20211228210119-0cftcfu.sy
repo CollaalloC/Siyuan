@@ -1,0 +1,72 @@
+{
+	"ID": "20211228210119-0cftcfu",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20211228210119-0cftcfu",
+		"title": "2021-12-28",
+		"updated": "20211228213413"
+	},
+	"Children": [
+		{
+			"ID": "20211228210119-gs32eek",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20211228210119-gs32eek",
+				"updated": "20211228210137"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "成功的事情"
+				}
+			]
+		},
+		{
+			"ID": "20211228210213-nfitt6v",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211228210213-nfitt6v",
+				"updated": "20211228213229"
+			},
+			"Children": [
+				{
+					"ID": "20211228213229-or1rnr4",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211228213229-or1rnr4"
+					},
+					"Children": [
+						{
+							"ID": "20211228213229-9m83cxu",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211228213229-9m83cxu",
+								"updated": "20211228213240"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "不动笔墨不读书，找到了读书的感觉"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211228213241-apax6u4",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211228213241-apax6u4",
+				"updated": "20211228213241"
+			}
+		}
+	]
+}
