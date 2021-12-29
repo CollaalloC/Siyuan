@@ -1,0 +1,146 @@
+{
+	"ID": "20211230000141-l9ibevd",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20211230000141-l9ibevd",
+		"title": "2021-12-29",
+		"updated": "20211230000305"
+	},
+	"Children": [
+		{
+			"ID": "20211230000141-oaf5met",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20211230000141-oaf5met",
+				"updated": "20211230000151"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "成功的事情"
+				}
+			]
+		},
+		{
+			"ID": "20211230000151-oy3lkqs",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211230000151-oy3lkqs",
+				"updated": "20211230000305"
+			},
+			"Children": [
+				{
+					"ID": "20211230000152-4n294z8",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211230000152-4n294z8"
+					},
+					"Children": [
+						{
+							"ID": "20211230000152-wk5t1t7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211230000152-wk5t1t7",
+								"updated": "20211230000203"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "在下午能按计划出去"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211230000203-7ccvtoy",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211230000203-7ccvtoy"
+					},
+					"Children": [
+						{
+							"ID": "20211230000203-3t2u7wm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211230000203-3t2u7wm",
+								"updated": "20211230000219"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "今天保持一天的高效率的复习，而且达到了预期的目标"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211230000221-zmh5dl2",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211230000221-zmh5dl2"
+					},
+					"Children": [
+						{
+							"ID": "20211230000221-9q5eqoo",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211230000221-9q5eqoo",
+								"updated": "20211230000229"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "目标和进度都估计的很合理"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211230000229-2d8zubu",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211230000229-2d8zubu",
+						"updated": "20211230000305"
+					},
+					"Children": [
+						{
+							"ID": "20211230000229-pjbdri8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211230000229-pjbdri8",
+								"updated": "20211230000305"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "成功和社交软件上的女孩搭上了话，并且聊得还不错哦，会是一个好朋友"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
